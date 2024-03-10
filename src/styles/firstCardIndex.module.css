@@ -1,0 +1,30 @@
+.card {
+  display: 'flex';
+  flex-direction: 'column';
+  align-items: 'center';
+  justify-content: 'center';
+  padding: '20px';
+  border: '1px solid #ccc';
+  border-radius: '10px';
+  width: '300px';
+  margin: '0 auto'
+}
+
+.input {
+  margin: '10px 0';
+  padding: '10px';
+  width: '100%'
+}
+
+.button {
+  padding: '10px 20px';
+  background-color: '#007bff';
+  color: 'white';
+  border: 'none';
+  border-radius: '5px';
+  cursor: 'pointer'
+}
+
+.url {
+  margin-top: '20px'
+}

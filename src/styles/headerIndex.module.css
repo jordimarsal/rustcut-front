@@ -1,0 +1,28 @@
+.nav {
+    /*display: 'flex';*/
+    justify-content: 'space-between';
+    border-bottom: '1px solid #ccc';
+    top: 0;
+    width: '100%'
+}
+
+.left {
+    /*margin:  0;*/
+}
+
+.right {
+    display: 'flex';
+    gap: '20px'
+}
+
+.link {
+    text-decoration: 'none';
+    color: '#007bff'
+}
+
+.ptitle {
+    color: 'black';
+    font-weight: 'bold';
+    font-size: '2.5em';
+    padding: '0px'
+}
